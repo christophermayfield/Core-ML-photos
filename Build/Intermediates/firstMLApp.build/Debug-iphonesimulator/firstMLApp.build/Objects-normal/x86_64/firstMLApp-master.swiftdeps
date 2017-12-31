@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "72c4d5998912eb9d6513b5c02a9fbee8"
+build_time: [1514754503, 787840000]
+inputs:
+  "/Users/chrismayfield/Desktop/firstMLApp/firstMLApp/ViewController.swift": [1510992584, 0]
+  "/Users/chrismayfield/Desktop/firstMLApp/firstMLApp/AppDelegate.swift": [1514754502, 0]
+  "/Users/chrismayfield/Desktop/firstMLApp/Build/Intermediates/firstMLApp.build/Debug-iphonesimulator/firstMLApp.build/DerivedSources/CoreMLGenerated/Inceptionv3/Inceptionv3.swift": [1514754473, 0]
